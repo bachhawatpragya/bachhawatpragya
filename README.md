@@ -26,3 +26,5 @@ I focus on writing clean, efficient code and building systems that are reliable,
 <p align="center"> <a href="https://www.linkedin.com/in/pragya-bachhawat"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> &nbsp;&nbsp; <a href="mailto:wisdomforu2@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
 
 ```
+Learning...
+```
