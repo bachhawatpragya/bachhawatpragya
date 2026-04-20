@@ -12,7 +12,7 @@ I’m a developer who enjoys understanding how things work—breaking down compl
 I focus on writing clean, efficient code and building systems that are reliable, user-friendly, and designed with intention.
 
 ## ⚙️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,js,java,python,php,mongodb,mysql,git,github,tailwind" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,js,java,cpp,python,php,mongodb,mysql,git,github,tailwind,figma" /> </p>
 
 ## 📊 System Stats
 <p align="center">&nbsp;
