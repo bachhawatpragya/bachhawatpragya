@@ -20,8 +20,9 @@ I focus on writing clean, efficient code and building systems that are reliable,
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bachhawatpragya&show_icons=true&locale=en" alt="bachhawatpragya" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bachhawatpragya&" alt="bachhawatpragya" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bachhawatpragya&theme=tokyonight&hide_border=true" alt="bachhawatpragya />
+</p>
 ## 📡 Connect
 <p align="center"> <a href="https://www.linkedin.com/in/pragya-bachhawat"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> &nbsp;&nbsp; <a href="mailto:wisdomforu2@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
 
