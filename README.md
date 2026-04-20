@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Pragya Bachhawat</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=B8860B&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;~/exploring.sh;Building+with+intention;Always+learning+%26+refining" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=B8860B&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;~/exploring;Building+with+intention;Always+learning+%26+refining" />
 </p>
 
 ---
