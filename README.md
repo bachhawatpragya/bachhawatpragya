@@ -6,13 +6,17 @@
 
 ---
 ## 🧠 About
+- Passionate about building scalable and intuitive applications  
+- Interested in backend systems, real-time architectures, and clean UI  
+- Enjoy solving problems through structured thinking and efficient code  
+- Constantly learning, experimenting, and refining my craft  
 
-I’m a developer who enjoys understanding how things work—breaking down complexity and rebuilding it into solutions that feel simple and intuitive.
 
-I focus on writing clean, efficient code and building systems that are reliable, user-friendly, and designed with intention.
-
+---
 ## ⚙️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,js,java,cpp,python,php,mongodb,mysql,git,github,tailwind,figma" /> </p>
+
+---
 
 ## 📊 System Stats
 <div align="center">
@@ -23,6 +27,8 @@ I focus on writing clean, efficient code and building systems that are reliable,
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bachhawatpragya&theme=tokyonight&hide_border=true"/>
 </div>
+
+---
 
 ## 📡 Connect
 <p align="center">
@@ -38,6 +44,9 @@ I focus on writing clean, efficient code and building systems that are reliable,
     <img src="https://img.shields.io/badge/GitHub-bachhawatpragya-2b3137?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-```
-Learning...
-```
+
+
+
+<p align="right">
+  <i>"Learning...."</i>
+</p>
