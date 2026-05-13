@@ -16,15 +16,15 @@ I focus on writing clean, efficient code and building systems that are reliable,
 
 ## 📊 System Stats
 <p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bachhawatpragya&show_icons=true&locale=en" alt="bachhawatpragya" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bachhawatpragya&show_icons=true&locale=en&cache_seconds=1800" alt="bachhawatpragya" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bachhawatpragya&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=bachhawatpragya&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
 </p>
 
-<p align="center">&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bachhawatpragya&show_icons=true&locale=en&layout=compact" alt="bachhawatpragya" /></p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachhawatpragya&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
+</p> -->
 
 ## 📡 Connect
 <p align="center"> <a href="https://www.linkedin.com/in/pragya-bachhawat"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> &nbsp;&nbsp; <a href="mailto:wisdomforu2@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
