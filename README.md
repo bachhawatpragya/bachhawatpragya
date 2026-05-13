@@ -15,20 +15,29 @@ I focus on writing clean, efficient code and building systems that are reliable,
 <p align="center"> <img src="https://skillicons.dev/icons?i=react,nodejs,js,java,cpp,python,php,mongodb,mysql,git,github,tailwind,figma" /> </p>
 
 ## 📊 System Stats
-<p align="center">&nbsp;
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bachhawatpragya&show_icons=true&locale=en&cache_seconds=1800" alt="bachhawatpragya" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=bachhawatpragya&theme=tokyonight&hide_border=true&cache_seconds=1800&v=1" />
-</p>
+<div align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bachhawatpragya&theme=tokyonight"/>
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bachhawatpragya&theme=tokyonight"/>
+</div>
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bachhawatpragya&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" />
-</p> -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bachhawatpragya&theme=tokyonight&hide_border=true"/>
+</div>
 
 ## 📡 Connect
-<p align="center"> <a href="https://www.linkedin.com/in/pragya-bachhawat"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> &nbsp;&nbsp; <a href="mailto:wisdomforu2@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/pragya-bachhawat">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:wisdomforu2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/bachhawatpragya">
+    <img src="https://img.shields.io/badge/GitHub-bachhawatpragya-2b3137?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 ```
 Learning...
 ```
