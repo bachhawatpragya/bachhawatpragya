@@ -9,7 +9,6 @@
 
 </div>
 
----
 
 ## 💫 About Me
 - Passionate about building scalable and intuitive applications  
