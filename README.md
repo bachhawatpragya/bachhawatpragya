@@ -1,17 +1,22 @@
-<h1 align="center">👋 Hi, I'm Pragya Bachhawat</h1>
+<!-- Header -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=B8860B&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;~/exploring;Building+with+intention;Always+learning+%26+refining" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1b27,100:36BCF7&height=190&section=header&text=PRAGYA%20BACHHAWAT&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%80%A2%20Backend%20%E2%80%A2%20Systems&descSize=18&descAlignY=58&animation=fadeIn" width="100%"/>
+
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+scalable+applications;Exploring+backend+systems+%26+real-time+architectures;Solving+problems+through+code;Always+learning+%26+refining"/>
+
+</div>
 
 ---
-## 🧠 About
+
+## 💫 About Me
 - Passionate about building scalable and intuitive applications  
 - Interested in backend systems, real-time architectures, and clean UI  
 - Enjoy solving problems through structured thinking and efficient code  
 - Constantly learning, experimenting, and refining my craft  
 
----
 
 ## 🚀 Tech Stack & Skills
 
@@ -45,7 +50,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </div>
----
+
 
 ## 📊 System Stats
 <div align="center">
@@ -57,7 +62,7 @@
   <img src="https://streak-stats.demolab.com?user=bachhawatpragya&theme=tokyonight&hide_border=true"/>
 </div>
 
----
+
 
 ## 📡 Connect
 <p align="center">
@@ -84,3 +89,8 @@
 <p align="right">
   <i>"Learning...."</i>
 </p>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=egg&color=0:0d1117,45:1a1b27,100:36BCF7&height=110&section=footer&animation=fadeIn" width="100%"/>
+</div>
