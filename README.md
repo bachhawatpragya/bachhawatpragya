@@ -17,6 +17,7 @@
 - Enjoy solving problems through structured thinking and efficient code  
 - Constantly learning, experimenting, and refining my craft  
 
+---
 
 ## 🚀 Tech Stack & Skills
 
@@ -51,6 +52,7 @@
 
 </div>
 
+---
 
 ## 📊 System Stats
 <div align="center">
@@ -62,7 +64,7 @@
   <img src="https://streak-stats.demolab.com?user=bachhawatpragya&theme=tokyonight&hide_border=true"/>
 </div>
 
-
+---
 
 ## 📡 Connect
 <p align="center">
